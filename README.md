@@ -41,13 +41,6 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 
 ## Stats
 
-<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmtxr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
-/>
-</br>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -62,6 +55,12 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmtxr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+/>
 
 
 
