@@ -33,5 +33,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-luccas-mantuano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-mantuano/)](https://www.linkedin.com/in/luccas-mantuano/)
+[![Linkedin](https://img.shields.io/badge/-luccas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-mantuano/)](https://www.linkedin.com/in/luccas-mantuano/)
 [![Gmail Badge](https://img.shields.io/badge/-luccasmtxr@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luccasmtxr@gmail.com)](mailto:luccasmtxr@gmail.com)
