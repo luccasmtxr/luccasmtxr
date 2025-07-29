@@ -38,6 +38,12 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmtxr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+  />
+
 
 
 ## Where to find me
