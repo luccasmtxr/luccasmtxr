@@ -13,11 +13,14 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgresSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgressql)
 ![Backstage](https://img.shields.io/badge/-Backstage-333333?style=flat&logo=backstage)
 
 
@@ -29,13 +32,6 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 
-
-
-<br/>
-
-<a href="https://github.com/luccasmtxr" title="Perfil do Luccas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasmtxr&theme=dracula&show_icons=true" />
-</a>
 
 ## Where to find me
 
