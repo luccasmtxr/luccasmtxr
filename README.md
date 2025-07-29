@@ -51,16 +51,17 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-<img
-    align="right"
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmtxr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
-/>
+    alt="Top Languages"
+  />
+</p>
 
 
 
