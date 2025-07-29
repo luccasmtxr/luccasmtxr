@@ -46,7 +46,7 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 />
 </br>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luccasmtxr/luccasmtxr/blob/output/github-contribution-grid-snake.svg)
 
 
 
