@@ -11,16 +11,20 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 
 **Code**
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgres)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
 ![Backstage](https://img.shields.io/badge/-Backstage-333333?style=flat&logo=backstage)
 
 
@@ -30,6 +34,9 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
 
 
