@@ -17,10 +17,10 @@ Hi, I'm Luccas! I'm a Fullstack Software Engineer with over 6 years of experienc
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node)
+![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgresSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgressql)
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgres)
 ![Backstage](https://img.shields.io/badge/-Backstage-333333?style=flat&logo=backstage)
 
 
